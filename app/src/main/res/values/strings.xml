@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">parcial2</string>
+    <string name="first">Source System</string>
+    <string name="second">Destination System</string>
+    <string name="number">Number to convert</string>
+    <string name="convert">Convert</string>
+    <string name="details">Details</string>
+
+</resources>
